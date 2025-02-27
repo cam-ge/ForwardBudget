@@ -25,7 +25,7 @@ Local Storage & Cloud Sync – Keep data on-device or sync with iCloud.
 
 
 
-wireframe
+Wireframe
 
 Main Screens & Layouts
 1. Home Screen (Dashboard)
