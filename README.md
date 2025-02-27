@@ -1,6 +1,6 @@
 Forward Budget(Idea By Tyler Straube)
 
-pp Name: BudgetMate
+Name: BudgetMate
 Core Features:
 Manual Expense Input – Add expenses by category (e.g., Food, Transport, Entertainment) with an easy-to-use form.
 Income Tracking – Log your income to balance your budget.
