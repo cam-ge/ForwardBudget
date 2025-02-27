@@ -28,6 +28,9 @@ Total balance (Income - Expenses)
 Summary of today’s spending
 Graph of spending trends
 Quick-add button (➕)
+
+
+
 2. Add Expense Screen
 📝 Inputs:
 
@@ -36,18 +39,27 @@ Category (Dropdown or custom entry)
 Date (Auto-today, editable)
 Notes (Optional)
 "Save" button
+
+
+
 3. Categories & Limits Screen
 📂 Options:
 
 List of all categories
 Set spending limits per category
 Add/Edit/Delete custom categories
+
+
+
 4. Reports Screen
 📈 Displays:
 
 Pie chart of spending per category
 Bar graph of spending over time
 Filter by day, week, month
+
+
+
 5. Settings Screen
 ⚙️ Options:
 
