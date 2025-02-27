@@ -6,6 +6,7 @@ Name: BudgetMate
 
 Core Features:
 
+
 Manual Expense Input – Add expenses by category (e.g., Food, Transport, Entertainment) with an easy-to-use form.
 
 Income Tracking – Log your income to balance your budget.
@@ -73,6 +74,11 @@ Filter by day, week, month
 Dark mode toggle
 iCloud Sync
 Reset Data
+
+Sample WIreframe:
+
+![image](https://github.com/user-attachments/assets/8fb8b8e0-f0a8-4486-8e17-df19e0d0a8e0)
+
 
 
 
