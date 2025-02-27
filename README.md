@@ -7,12 +7,19 @@ Name: BudgetMate
 Core Features:
 
 Manual Expense Input – Add expenses by category (e.g., Food, Transport, Entertainment) with an easy-to-use form.
+
 Income Tracking – Log your income to balance your budget.
+
 Daily/Weekly/Monthly Summaries – View breakdowns of your spending over time.
+
 Custom Categories – Create and edit your own spending categories.
+
 Simple Graphs & Reports – Track trends with bar charts and pie charts.
+
 Spending Limits – Set limits for each category and get alerts when approaching them.
+
 Dark Mode & Widgets – A clean UI with dark mode and quick-access widgets.
+
 Local Storage & Cloud Sync – Keep data on-device or sync with iCloud.
 
 
